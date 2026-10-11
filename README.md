@@ -1,1 +1,1 @@
-# script
+# script:    loadstring(game:HttpGet("https://raw.githubusercontent.com/bloxfruitsnokey/Redz/refs/heads/main/Ruby/load.luau"))()
